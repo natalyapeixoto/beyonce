@@ -53,6 +53,7 @@ footer{
     .container {
         width: 100vw;
         height: 40%;
+        border-radius: 0px;
     }
     i{
         margin-top: 5%;
